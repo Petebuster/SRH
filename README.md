@@ -6,6 +6,7 @@ Git basic commands
 To add new files to the repository or add changed files to staged area:
 
 $ git add <files>
+
 To commit them:
 
 $ git commit
