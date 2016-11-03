@@ -14,5 +14,5 @@ namespace SFML_Test
             Game.Run();
         }
     }
-    //all is deleted
+    //something new
 }
