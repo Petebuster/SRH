@@ -14,4 +14,7 @@ namespace SFML_Test
             Game.Run();
         }
     }
+    //first test 
+
+    //second test
 }
