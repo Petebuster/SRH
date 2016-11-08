@@ -1,0 +1,10 @@
+c:\users\pete\documents\visual studio 2015\Projects\Testbeispiel\Testbeispiel\bin\Debug\Testbeispiel.exe.config
+c:\users\pete\documents\visual studio 2015\Projects\Testbeispiel\Testbeispiel\bin\Debug\Testbeispiel.exe
+c:\users\pete\documents\visual studio 2015\Projects\Testbeispiel\Testbeispiel\bin\Debug\Testbeispiel.pdb
+c:\users\pete\documents\visual studio 2015\Projects\Testbeispiel\Testbeispiel\bin\Debug\sfmlnet-audio-2.dll
+c:\users\pete\documents\visual studio 2015\Projects\Testbeispiel\Testbeispiel\bin\Debug\sfmlnet-graphics-2.dll
+c:\users\pete\documents\visual studio 2015\Projects\Testbeispiel\Testbeispiel\bin\Debug\sfmlnet-system-2.dll
+c:\users\pete\documents\visual studio 2015\Projects\Testbeispiel\Testbeispiel\bin\Debug\sfmlnet-window-2.dll
+c:\users\pete\documents\visual studio 2015\Projects\Testbeispiel\Testbeispiel\obj\Debug\Testbeispiel.csprojResolveAssemblyReference.cache
+c:\users\pete\documents\visual studio 2015\Projects\Testbeispiel\Testbeispiel\obj\Debug\Testbeispiel.exe
+c:\users\pete\documents\visual studio 2015\Projects\Testbeispiel\Testbeispiel\obj\Debug\Testbeispiel.pdb
