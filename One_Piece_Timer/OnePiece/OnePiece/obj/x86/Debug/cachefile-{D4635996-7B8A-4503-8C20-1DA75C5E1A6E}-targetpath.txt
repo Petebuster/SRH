@@ -1,0 +1,14 @@
+Content\Splash.xnb
+Content\Menu.xnb
+Content\PlayButton.xnb
+Content\Tile1.xnb
+Content\LuffyIdle.xnb
+Content\LuffyTaunt.xnb
+Content\Tile2.xnb
+Content\LuffyJump.xnb
+Content\Gamebackground.xnb
+Content\healthbar.xnb
+Content\LuffyWalkzoe.xnb
+Content\EnemyIdle.xnb
+Content\EnemyWalk.xnb
+Content\LuffyWalk.xnb

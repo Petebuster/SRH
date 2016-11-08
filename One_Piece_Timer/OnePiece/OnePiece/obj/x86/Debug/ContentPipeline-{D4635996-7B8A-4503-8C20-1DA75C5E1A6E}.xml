@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Splash.png</Source>
+      <Name>Splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\Splash.xnb</Output>
+      <Time>2016-06-16T13:46:50.3182096+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu.png</Source>
+      <Name>Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\Menu.xnb</Output>
+      <Time>2016-06-16T14:51:01.9136112+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayButton.png</Source>
+      <Name>PlayButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\PlayButton.xnb</Output>
+      <Time>2016-06-16T15:04:09.9802804+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile1.png</Source>
+      <Name>Tile1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\Tile1.xnb</Output>
+      <Time>2016-06-29T16:23:36.6023175+02:00</Time>
+    </Item>
+    <Item>
+      <Source>LuffyIdle.png</Source>
+      <Name>LuffyIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\LuffyIdle.xnb</Output>
+      <Time>2016-06-22T11:36:53.1653807+02:00</Time>
+    </Item>
+    <Item>
+      <Source>LuffyTaunt.png</Source>
+      <Name>LuffyTaunt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\LuffyTaunt.xnb</Output>
+      <Time>2016-06-22T11:37:42.3063327+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Tile2.png</Source>
+      <Name>Tile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\Tile2.xnb</Output>
+      <Time>2016-06-23T16:36:38.2420998+02:00</Time>
+    </Item>
+    <Item>
+      <Source>LuffyJump.png</Source>
+      <Name>LuffyJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\LuffyJump.xnb</Output>
+      <Time>2016-06-25T13:55:10.1373737+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Gamebackground.png</Source>
+      <Name>Gamebackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\Gamebackground.xnb</Output>
+      <Time>2016-06-25T16:57:36.5175873+02:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbar.png</Source>
+      <Name>healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\healthbar.xnb</Output>
+      <Time>2016-06-28T09:51:17.0632296+02:00</Time>
+    </Item>
+    <Item>
+      <Source>LuffyWalkzoe.png</Source>
+      <Name>LuffyWalkzoe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\LuffyWalkzoe.xnb</Output>
+      <Time>2016-06-28T07:38:51.7896464+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyIdle.png</Source>
+      <Name>EnemyIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\EnemyIdle.xnb</Output>
+      <Time>2016-06-30T12:35:58.7031674+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyWalk.png</Source>
+      <Name>EnemyWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\EnemyWalk.xnb</Output>
+      <Time>2016-06-30T12:36:32.2412398+02:00</Time>
+    </Item>
+    <Item>
+      <Source>LuffyWalk.png</Source>
+      <Name>LuffyWalk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\LuffyWalk.xnb</Output>
+      <Time>2016-06-30T20:29:19.478498+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{D4635996-7B8A-4503-8C20-1DA75C5E1A6E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePieceContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Peter\Documents\Visual Studio 2015\Projects\EnemyTest\EnemyTest\OnePiece\OnePiece\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-06-07T11:52:32.3843037+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
